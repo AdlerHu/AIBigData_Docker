@@ -36,7 +36,7 @@ Linux
   cd /opt/nlp
   git clone https://github.com/justin2061/2019_nlp.git
   cd 2019_nlp
-  chmod 777 work
+  chmod  -R 777 work
   
   ls -la
   cd /opt/nlp/2019_nlp
